@@ -1,23 +1,22 @@
 //============= Datos del Bot =============//
 
-global.owner = ['595983186566']
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'Black_Bot'
-global.wm = 'Black_Bot'
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
+global.owner = [ 
+   ['524531106522', '💌  ༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒ - Creador 💌', true], 
+   ['5493813403468', '💌  ༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒ - Collaborator 1 💌', true], 
+   ['595983186566', '💌  ༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒ - Collaborator 2 💌', true], 
+   ['51975216165', '💌  ༒𝐌⃟𝐔𝐓𝐈𝐕𝐄𝐑𝐒𝐄🜲𝐁𝐎𝐓༒ -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  3 💌', true], 
+  
+ ]  
+ global.suittag = ['']  
+ global.mods = ['524531403370']  
+ global.prems = [] 
 
 //============= urlButtons =============//
 
 global.textUrlbot = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.linkUrlbot = "https://www.instagram.com/ilmanhdyt_"
 
-//=========================================================================//
-
-global.DeveloperMode = 'false' 
-global.linkGC = []
-global.mods = ['524531106422'] 
-global.prems = [] 
-global.APIs = { 
+//========================================================================
 nrtm: 'https://nurutomo.herokuapp.com',
 xteam: 'https://api.xteam.xyz',
 nzcha: 'http://nzcha-apii.herokuapp.com',
